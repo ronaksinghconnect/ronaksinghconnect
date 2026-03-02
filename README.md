@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**ronaksinghconnect/ronaksinghconnect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey there 👋
 
-Here are some ideas to get you started:
+I'm **Ronak Singh**, a Data Analyst focused on turning raw data into clear business insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I mainly work on analytics projects involving data cleaning, exploration, and dashboard creation to solve real business problems and strengthen practical analytical skills.
+
+This profile is where I document my learning journey — building projects, experimenting with datasets, and continuously improving my data analysis workflow.
+
+---
+
+## Tools & Tech
+- Excel  
+- SQL  
+- Tableau  
+- Python  
+
+---
+
+## A Bit About Me
+- 📊 Passionate about data-driven decision making  
+- 🚀 Currently building portfolio projects to become industry-ready  
+- 🧠 Interested in business analytics and customer behavior analysis  
+- 🎯 Goal: Become a job-ready Data Analyst
+---
+
+## Reach Me
+- 🔗 LinkedIn: https://www.linkedin.com/in/ronak-singh-analyst
