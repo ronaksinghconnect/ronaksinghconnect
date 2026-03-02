@@ -18,9 +18,10 @@ This profile is where I document my learning journey — building projects, expe
 ---
 
 ## A Bit About Me
-- 📊 Passionate about data-driven decision making  
+- 📊 Passionate about data-driven decision making
+ - 🧠 Interested in business analytics and customer behavior analysis    
 - 🚀 Currently building portfolio projects to upgrade my knowledge to industry-level  
-- 🧠 Interested in business analytics and customer behavior analysis  
+ 
   
 ---
 
