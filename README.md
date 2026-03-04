@@ -1,7 +1,7 @@
 
 ## Hey there 👋
 
-I'm **Ronak Singh**, a Data Analyst focused on turning raw data into clear business insights focusing on clarity over complexity.
+####I'm **Ronak Singh**, a Data Analyst focused on turning raw data into clear business insights focusing on clarity over complexity.
 
 I mainly work on analytics projects involving data cleaning, exploration, and dashboard creation to solve real business problems and strengthen practical analytical skills.
 
